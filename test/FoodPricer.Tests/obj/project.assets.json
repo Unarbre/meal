@@ -6037,11 +6037,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/Exo1/test/FoodPricer.Tests/FoodPricer.Tests.csproj",
+      "projectUniqueName": "/home/runner/Exo2-SimonHalimi/test/FoodPricer.Tests/FoodPricer.Tests.csproj",
       "projectName": "FoodPricer.Tests",
-      "projectPath": "/home/runner/Exo1/test/FoodPricer.Tests/FoodPricer.Tests.csproj",
+      "projectPath": "/home/runner/Exo2-SimonHalimi/test/FoodPricer.Tests/FoodPricer.Tests.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/Exo1/test/FoodPricer.Tests/obj/",
+      "outputPath": "/home/runner/Exo2-SimonHalimi/test/FoodPricer.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
@@ -6056,8 +6056,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/runner/Exo1/src/FoodPricer/FoodPricer.csproj": {
-              "projectPath": "/home/runner/Exo1/src/FoodPricer/FoodPricer.csproj"
+            "/home/runner/Exo2-SimonHalimi/src/FoodPricer/FoodPricer.csproj": {
+              "projectPath": "/home/runner/Exo2-SimonHalimi/src/FoodPricer/FoodPricer.csproj"
             }
           }
         }
